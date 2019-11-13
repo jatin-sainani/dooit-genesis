@@ -1,0 +1,4 @@
+#Wed Nov 13 23:27:01 IST 2019
+base.0=D\:\\Code\\Doit\\genesis\\New folder\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
